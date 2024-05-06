@@ -1,4 +1,5 @@
 # Sparse Vector and Matrix Operations
+
 This C++ library provides functionalities for performing operations on sparse vectors and matrices efficiently.
 
 
@@ -14,6 +15,7 @@ This C++ library provides functionalities for performing operations on sparse ve
 
 
 ## Installation
+
 To use this library, follow these steps:
 
 	1. Clone the repository: `git clone https://github.com/MrByteWraith/SimpleCppProjects/Sparse_Matrix_Vector.git`
@@ -21,17 +23,23 @@ To use this library, follow these steps:
 	3. Compile the source files (`SparseVector.cpp` and `SparseMatrix.cpp`) along with your project.
 
 
+
 ## Usage
+
 Compilation and Execution:
-	g++ main.cpp SparseVector.cpp SparseMatrix.cpp -o main
-	./main
+
+	1. g++ main.cpp SparseVector.cpp SparseMatrix.cpp -o main
+	2. ./main
 
 
 ## Input File
+
 Sparse Vector Format:
+
 	<index>:<data> <index>:<data> <index>:<data> ...
 
 Sparse Matrix Format:
+
 	<row_index> <index>:<data> <index>:<data> <index>:<data> ...
 	<row_index> <index>:<data> <index>:<data> <index>:<data> ...
 	<row_index> <index>:<data> <index>:<data> <index>:<data> ...
@@ -41,11 +49,13 @@ Sparse Matrix Format:
 
 
 ## Output File
+
 The output file 'output.txt' will contain the results of the operations performed by the program.
 	
 
 
-##Explanation
+## Explanation
+
 The main.cpp file performs the following operations:
 
 	1.Initializes a sparse vector a1 from data in the file "a1.txt".
@@ -60,6 +70,7 @@ The main.cpp file performs the following operations:
 
 
 ## Dependencies
+
 This program has no external dependencies beyond the standard C++ library.
 
 
