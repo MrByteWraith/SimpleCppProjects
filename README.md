@@ -23,8 +23,8 @@ To use this library, follow these steps:
 
 ## Usage
 Compilation and Execution:
-	g++ main.cpp SparseVector.cpp SparseMatrix.cpp -o main
-	./main
+	1. g++ main.cpp SparseVector.cpp SparseMatrix.cpp -o main
+	2. ./main
 
 
 ## Input File
