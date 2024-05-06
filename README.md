@@ -54,7 +54,7 @@ The output file 'output.txt' will contain the results of the operations performe
 	
 
 
-##Explanation
+## Explanation
 
 The main.cpp file performs the following operations:
 
