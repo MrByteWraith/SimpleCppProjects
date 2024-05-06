@@ -16,15 +16,15 @@ This C++ library provides functionalities for performing operations on sparse ve
 ## Installation
 To use this library, follow these steps:
 
-	1. Clone the repository: `git clone https://github.com/your-username/sparse-vector-matrix.git`
+	1. Clone the repository: `git clone https://github.com/MrByteWraith/SimpleCppProjects/Sparse_Matrix_Vector.git`
 	2. Include the necessary header files (`SparseVector.h` and `SparseMatrix.h`) in your project.
 	3. Compile the source files (`SparseVector.cpp` and `SparseMatrix.cpp`) along with your project.
 
 
 ## Usage
 Compilation and Execution:
-	$g++ main.cpp SparseVector.cpp SparseMatrix.cpp -o main
-	$./main
+	g++ main.cpp SparseVector.cpp SparseMatrix.cpp -o main
+	./main
 
 
 ## Input File
