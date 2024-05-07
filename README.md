@@ -8,6 +8,8 @@ In this repository, you can find various C++ projects. These projects are design
 
 - **Mastermind Game**: The Mastermind game implementation. This project includes classes and functions to play the Mastermind game, where the player has to guess a secret code within a certain number of attempts.
 
+- **Robot Fight Simulation**: A simple simulation game. This project includes classes and functions to simulate robot fights.
+  
 ## Getting Started
 
 To get started with any of the projects, simply navigate to their respective directories and follow the instructions provided in the README files.
